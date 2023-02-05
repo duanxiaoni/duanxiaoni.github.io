@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+title                    : "Xiaoni Duan"
+title_separator          : " "
+name                     : &name "Xiaoni Duan"
+description              : &description "I'm a fourth-year Ph.D. student in CS Department at Purdue University advised by Professor Ming Yin. My main research focus is Human-Computer Interaction, Machine learning fairness, and Crowdsourcing. My objective is to enhance Machine Learning and Natural Language Processing models by incorporating human factors. I investigate fairness issues and biases in ML and NLP systems through empirical studies and work toward mitigating these biases. I'm also interested in developing human-AI models that improve ML fairness and reduce biases."
+url                      : https://duanxiaoni.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "duanxiaoni/duanxiaoni.github.io"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,41 +80,41 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  name             : "Xiaoni Duan"
+  avatar           : "duan79.jpeg"
+  bio              : "Ph.D. student in Computer Science, Purdue University"
+  location         : "West Lafayette, IN"
+#   employer         :
+#   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#   googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "duan79@purdue.edu"
+#   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+#   uri              :
+#   bitbucket        :
+#   codepen          :
+#   dribbble         :
+#   flickr           :
+#   facebook         :
+#   foursquare       :
+#   github           : "academicpages"
+#   google_plus      :
+#   keybase          :
+#   instagram        :
+#   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+#   lastfm           :
+  linkedin         : "https://www.linkedin.com/in/xiaoni-duan-727691186/"
+#   orcid            : "http://orcid.org/yourorcidurl"
+#   pinterest        :
+#   soundcloud       :
+#   stackoverflow    : # http://stackoverflow.com/users/123456/username
+#   steam            :
+#   tumblr           :
+#   twitter          : "replacethistwitterhandle"
+#   vine             :
+#   weibo            :
+#   xing             :
+#   youtube          :
+#   wikipedia        :
 
 
 # Reading Files
@@ -308,4 +308,4 @@ tag_archive:
 compress_html:
   clippings: all
   ignore:
-    envs: development
+    envs: developmen
