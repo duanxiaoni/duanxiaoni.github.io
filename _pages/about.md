@@ -10,6 +10,9 @@ redirect_from:
 
 I'm a fourth-year Ph.D. student in CS Department at Purdue University advised by [Professor Ming Yin](http://mingyin.org/). My main research focus is Human-Computer Interaction, Machine learning fairness, and Crowdsourcing. My objective is to enhance Machine Learning and Natural Language Processing models by incorporating human factors. I investigate fairness issues and biases in ML and NLP systems through empirical studies and work toward mitigating annotators' biases. I'm also interested in developing human-AI models that improve ML fairness and reduce biases.
 
+I completed my Master's Degree at Kyoto University, Kyoto, Japan advised by [Professor Keishi Tajima](https://www.dl.soc.i.kyoto-u.ac.jp/~tajima/).
+
+
 
 Publications
 ======
